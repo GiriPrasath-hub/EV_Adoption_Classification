@@ -1,0 +1,16 @@
+# Core
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Scikit-learn (preprocessing, model selection)
+scikit-learn>=1.2.0
+
+# Visualization (EDA notebook)
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Notebook
+jupyter>=1.0.0
+
+# Web application
+streamlit>=1.28.0
