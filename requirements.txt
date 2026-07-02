@@ -3,7 +3,7 @@ pandas>=1.5.0
 numpy>=1.23.0
 
 # Scikit-learn (preprocessing, model selection)
-scikit-learn>=1.2.0
+scikit-learn>=1.6
 
 # Visualization (EDA notebook)
 matplotlib>=3.6.0
